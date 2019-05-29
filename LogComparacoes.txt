@@ -1,0 +1,44 @@
+Algoritmo: Quick Sort | Tamanho:1000000 rows | Tempo: 5776.00 Milisegundos | Randomico 
+Algoritmo: Merge Sort | Tamanho:1000000 rows | Tempo: 1391.00 Milisegundos | Randomico 
+Algoritmo: Heap Sort | Tamanho:1000000 rows | Tempo: 1241.00 Milisegundos | Randomico 
+Algoritmo: Radix Sort | Tamanho:1000000 rows | Tempo: 2702.00 Milisegundos | Randomico
+
+Algoritmo: Quick Sort | Tamanho:750000 rows | Tempo: 2993.00 Milisegundos | Randomico 
+Algoritmo: Merge Sort | Tamanho:750000 rows | Tempo: 979.00 Milisegundos | Randomico 
+Algoritmo: Heap Sort | Tamanho:750000 rows | Tempo: 996.00 Milisegundos | Randomico 
+Algoritmo: Radix Sort | Tamanho:750000 rows | Tempo: 999.00 Milisegundos | Randomico 
+
+Algoritmo: Quick Sort | Tamanho:500000 rows | Tempo: 791.00 Milisegundos | Randomico 
+Algoritmo: Merge Sort | Tamanho:500000 rows | Tempo: 734.00 Milisegundos | Randomico 
+Algoritmo: Heap Sort | Tamanho:500000 rows | Tempo: 905.00 Milisegundos | Randomico 
+Algoritmo: Radix Sort | Tamanho:500000 rows | Tempo: 861.00 Milisegundos | Randomico 
+
+Algoritmo: Merge Sort | Tamanho:1000000 rows | Tempo: 3027.00 Milisegundos | Invertido 
+Algoritmo: Heap Sort | Tamanho:1000000 rows | Tempo: 1173.00 Milisegundos | Invertido 
+Algoritmo: Radix Sort | Tamanho:1000000 rows | Tempo: 669.00 Milisegundos | Invertido
+quick deu problemas estouro de memória
+ 
+Algoritmo: Merge Sort | Tamanho:750000 rows | Tempo: 1232.00 Milisegundos | Invertido 
+Algoritmo: Heap Sort | Tamanho:750000 rows | Tempo: 854.00 Milisegundos | Invertido 
+Algoritmo: Radix Sort | Tamanho:750000 rows | Tempo: 890.00 Milisegundos | Invertido 
+quick deu problemas estouro de memória
+
+Algoritmo: Merge Sort | Tamanho:500000 rows | Tempo: 1189.00 Milisegundos | Invertido 
+Algoritmo: Heap Sort | Tamanho:500000 rows | Tempo: 964.00 Milisegundos | Invertido 
+Algoritmo: Radix Sort | Tamanho:500000 rows | Tempo: 593.00 Milisegundos | Invertido 
+quick deu problemas estouro de memória
+
+Algoritmo: Merge Sort | Tamanho:1000000 rows | Tempo: 1639.00 Milisegundos | Ordenado 
+Algoritmo: Heap Sort | Tamanho:1000000 rows | Tempo: 876.00 Milisegundos | Ordenado 
+Algoritmo: Radix Sort | Tamanho:1000000 rows | Tempo: 611.00 Milisegundos | Ordenado 
+quick deu problemas estouro de memória
+
+Algoritmo: Merge Sort | Tamanho:750000 rows | Tempo: 1219.00 Milisegundos | Ordenado 
+Algoritmo: Heap Sort | Tamanho:750000 rows | Tempo: 562.00 Milisegundos | Ordenado 
+Algoritmo: Radix Sort | Tamanho:750000 rows | Tempo: 936.00 Milisegundos | Ordenado 
+quick deu problemas estouro de memória
+
+Algoritmo: Merge Sort | Tamanho:500000 rows | Tempo: 890.00 Milisegundos | Ordenado 
+Algoritmo: Heap Sort | Tamanho:500000 rows | Tempo: 543.00 Milisegundos | Ordenado 
+Algoritmo: Radix Sort | Tamanho:500000 rows | Tempo: 1015.00 Milisegundos | Ordenado 
+quick deu problemas estouro de memóriaAlgoritmo: Quick Sort | Tamanho:1000000 rows | Tempo: 1438.00 Milisegundos | Ordenado 
